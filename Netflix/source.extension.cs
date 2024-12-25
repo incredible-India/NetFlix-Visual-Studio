@@ -9,7 +9,7 @@ namespace Netflix
     {
         public const string Id = "Netflix.d2c379d5-4d6f-4a86-9230-71c8b2260c9c";
         public const string Name = "Netflix";
-        public const string Description = @" Visual Studio extension called Netflix that seamlessly integrates Netflix into the Visual Studio IDE, allowing users to enjoy their favorite shows and movies directly within the development environment. ";
+        public const string Description = @"Visual Studio extension called Netflix that seamlessly integrates Visual Studio Netflix into the Visual Studio IDE, allowing users to enjoy their favorite shows and movies directly within the development environment. ";
         public const string Language = "en-US";
         public const string Version = "1.0";
         public const string Author = "Himanshu Kumar Sharma HKS";

@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="Netflix.d2c379d5-4d6f-4a86-9230-71c8b2260c9c" Version="1.0" Language="en-US" Publisher="Himanshu Kumar Sharma HKS" />
         <DisplayName>Netflix</DisplayName>
-        <Description xml:space="preserve"> Visual Studio extension called Netflix that seamlessly integrates Netflix into the Visual Studio IDE, allowing users to enjoy their favorite shows and movies directly within the development environment. </Description>
+        <Description xml:space="preserve">Visual Studio extension called Netflix that seamlessly integrates Visual Studio Netflix into the Visual Studio IDE, allowing users to enjoy their favorite shows and movies directly within the development environment. </Description>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
     </Metadata>
